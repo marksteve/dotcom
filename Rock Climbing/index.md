@@ -1,3 +1,3 @@
 ---
-description: Travel, nature, challenge, and friends.
+description: Travel, nature, challenge, and friends
 ---

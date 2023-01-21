@@ -1,3 +1,3 @@
 ---
-description: Curiosity turned into passion.
+description: Curiosity turned into passion
 ---
