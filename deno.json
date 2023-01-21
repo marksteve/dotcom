@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "build": "deno run -A --unstable https://deno.land/x/ter/main.ts",
+    "serve": "deno run -A --unstable https://deno.land/x/ter/main.ts --serve",
+    "dev": "deno run -A --unstable --watch https://deno.land/x/ter/main.ts --serve --debug",
+    "clean": "rm -rf _site"
+  }
+}
