@@ -1,6 +1,6 @@
 ---
 title: About
-description: Work and contact information
+description: I like building things with wood and the web as my medium.
 ---
 
 ## Work
