@@ -1,6 +1,6 @@
 ---
 title: TIL
-description: Today I Learned
+description: Learning in public
 pinned: true
 layout: log
 ---
