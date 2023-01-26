@@ -2,6 +2,7 @@
 title: 'Deno for scripts'
 date: 2023-01-25
 tags:
+  - software
   - deno
   - scripting
 ---
