@@ -1,13 +1,18 @@
 <header>
-  <h1 class="text-3xl font-bold m-0">Bakuran</h1>
-  Hi, I'm Steve and this is my yard.
+  <h1 className="text-3xl m-0">
+    Hi, I'm Steve/marksteve and welcome to my slice of the internet.
+  </h1>
 </header>
 
-<div class="flex flex-wrap gap-3 py-3">
-{homePages.map(({ name, desc }) => (
-  <comp.Card>
-    <h2 className="text-xl font-bold">{name}</h2>
-    {desc}
-  </comp.Card>
-))}
+<div className="flex flex-wrap gap-3 py-3">
+  {homePages.map(({ name, desc }) => (
+    <comp.Card>
+      <h2 className="text-xl font-bold">{name}</h2>
+      {desc}
+    </comp.Card>
+  ))}
+</div>
+
+<div className="text-sm flex-1 flex items-end">
+[View source](https://github.com/marksteve/dotcom)
 </div>
